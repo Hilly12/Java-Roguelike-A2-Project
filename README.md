@@ -7,3 +7,5 @@ Otherwise you may use the .jar file which runs on all operating systems with JRE
 
 NOTE: 
 Please do not move any of the source files.
+
+Gameplay Link: https://youtu.be/tPg4ViQrUrM
